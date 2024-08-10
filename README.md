@@ -1,0 +1,2 @@
+# Number_of_Arithmetic_triplets
+leetcode
